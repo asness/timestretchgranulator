@@ -11,4 +11,4 @@ Most time-stretching software (e.g. [PaulStretch](http://hypermammut.sourceforge
 
 But I think that granulation sounds better, particular for noisy samples.  It takes a long time to generate high-quality output, but that's okay.
 
-Incidently, (9BeetStretch)[http://www.xn--lyf-yla.com/] uses a granulation technique as well.
+Incidently, [9BeetStretch](http://www.xn--lyf-yla.com/) uses a granulation technique as well.

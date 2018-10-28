@@ -35,7 +35,7 @@ SynthDef.new(
                     triggerFreq,
                     (2 * pi) * i / numSamplers - (pi / 2), // phase offset in radians
                     1,
-                	1
+                    1
                 );
             );
 

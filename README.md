@@ -1,6 +1,6 @@
 # AmazingTimeStretchGranulator
 
-I wrote this SuperCollider script a long time ago.  It time-stretches audio files using [granulation](https://en.wikipedia.org/wiki/Granular_synthesis), jiggling the samples a little to smooth them out.  I think it sounds amazing.  (It takes a long time to generate high-quality output, but that's okay.)
+I wrote this SuperCollider script a long time ago.  It time-stretches audio files using [granulation](https://en.wikipedia.org/wiki/Granular_synthesis), jiggling the samples a little to smooth them out.  I think it sounds great, and I've used it for a series of albums called (Not Knowing)[https://alexness.bandcamp.com/album/not-knowing], for very patient listeners.
 
 Most time-stretching software (e.g. [PaulStretch](http://hypermammut.sourceforge.net/paulstretch/) uses a frequency transform approach, roughly as follows:
 
@@ -9,4 +9,4 @@ Most time-stretching software (e.g. [PaulStretch](http://hypermammut.sourceforge
 3. interpolate the frames;
 4. resynthesize.
 
-But I think that granulation sounds better, particular for noisy samples.
+But I think that granulation sounds better, particular for noisy samples.  It takes a long time to generate high-quality output, but that's okay.

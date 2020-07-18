@@ -1,4 +1,4 @@
-# AmazingTimeStretchGranulator
+# timestretchgranulator
 
 I wrote this SuperCollider script a long time ago.  It time-stretches audio files using [granulation](https://en.wikipedia.org/wiki/Granular_synthesis), jiggling the samples a little to smooth them out.  I think it sounds great, and I've used it for a series of albums called [Not Knowing](https://alexness.bandcamp.com/album/not-knowing), for very patient listeners.
 

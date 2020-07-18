@@ -12,3 +12,5 @@ Most time-stretching software (e.g. [PaulStretch](http://hypermammut.sourceforge
 But I think that granulation sounds better, particular for noisy samples.  It takes a long time to generate high-quality output, but that's okay.
 
 Incidently, [9BeetStretch](http://www.xn--lyf-yla.com/) uses a granulation technique as well.
+
+**Update (July 2020):** I developed a new time-stretch algorithm with the help of [Jem Altieri](https://www.jem.space/) and [Sam Pluta](http://www.sampluta.com/index.html)!  Check out the NessStretch [here](https://github.com/spluta/TimeStretch).
